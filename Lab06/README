@@ -1,0 +1,17 @@
+Kameron Gill
+kgill2@ucsc.edu
+
+I worked on this project by myself.
+
+Lab 9 parter: Hasson Qayum, hqayum@ucsc.edu
+
+
+Thwe point of this lab was to familarize ourselves with the IO of the pic32. We were supposed to know how the buttons, switches, and OLEDs actually work
+and get expierence on how to manipulate it. In part1, we make the LEDs of the micro-controller go back and forth. The lights will slow up/speed down depending on
+how many switches are on or off. In part 2, we made an OLED display that showed some basic divison on the OLED. in part 3 we use the buttons to display LEDS.
+
+My approach to the lab was to follow the guide that was given by the handout. I had to ask for alot of help on part 3 since the instructions were very vague and hard to understand
+However, I think the lab went fine over all and I would not change my approach that much since I got everything to work.
+
+The part I had most difficulty on was part 3. I had alot of trouble implementing the Button library. It was very difficult to figure out since since the instructions were very vague.
+I got help from my Tutor in MEP and in section to help me out.
